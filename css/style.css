@@ -1,0 +1,30 @@
+ body{
+     background-color:  rgb(192 220 158 / 58%);
+     padding: 40px;
+     padding-top: 0px;
+ }
+ h1{
+     font-size: 50px;
+     color: indigo;
+     font-family: Verdana, Geneva, Tahoma, sans-serif;
+ }
+ .listCategories >li{
+     font-size: xx-large;
+     color: rgb(251 115 0);
+     font-family: Verdana, Geneva, Tahoma, sans-serif;
+     font-weight: bold;
+ }
+ .listItems {
+    font-size: 30px;
+    color: indigo;
+ }
+ .listItems >li >a{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: xx-large; 
+ }
+ h4{
+     font-size: large;
+     font-weight: 300;
+     font-family: cursive;
+     margin-top: 50px;
+ }
