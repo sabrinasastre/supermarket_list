@@ -1,4 +1,4 @@
 # supermarket_list
-First step in HTML and CSS
+My first step in HTML and CSS,
 July 2021
 
