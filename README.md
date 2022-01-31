@@ -2,7 +2,7 @@
 My first step in HTML and CSS,
 July 2021
 
-This is my very first HTML/CSS work, just a list linked to images.  
+This is my very first HTML/CSS work, just a list (ul/ol) linked to images.  
 It is also my first GitHub repo!
 
 Wanna see it? Check it out: 
